@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+
+}
+h1{
+    text-align: center;
+      
+
+}
+
+body{
+    background-color: rgba(250, 235, 215, 0.425);
+    margin: 20px 30px;
+    padding:10px
+
+}
+.container{
+    padding:20px;
+    margin: 30px;
+    border: 1px solid lightgrey;
+
+
+
+}
+input[type="text"],
+input[type="email"],
+input[type="date"],
+input[type="number"],
+input[type="password"],
+textarea{
+    width:100%;
+    padding:12px;
+    margin:8px;
+    border:2px solid black;
+
+
+}
+
+input[type="submit"]{
+    background-color: aquamarine;
+    color:aliceblue;
+    padding:12px 20px;
+    border-radius; 4px;
+    cursor:pointer;
+}
+
+
